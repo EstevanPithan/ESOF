@@ -1,0 +1,4 @@
+O comando diff ja separou todas as diferenças entre os progamas, logo o erro foi mostrado ali tb, encurtou muito a quantidade de linhas que precisei examinar.
+
+Git é direcionado a programação, ja google docs não, git ja é feito para tratar com problemas e soluções para programadores
+
